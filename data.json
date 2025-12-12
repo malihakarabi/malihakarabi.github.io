@@ -1,0 +1,121 @@
+{
+  "nav": [
+    { "text": "Philosophy", "link": "#philosophy" },
+    { "text": "Approach", "link": "#approach" },
+    { "text": "Experience", "link": "#experience" },
+    { "text": "Education", "link": "#education" },
+    { "text": "Skills", "link": "#skills" },
+    { "text": "Projects", "link": "#projects" },
+    { "text": "Contact", "link": "#contact" }
+  ],
+  "hero": {
+    "name": "Maliha\nSiffat\nKarabi",
+    "subtitle": "Insights in Behavioural Economics & Human Decision-Making ↓",
+    "imageUrl": "./images/maliha.jpeg"
+  },
+  "philosophy": {
+    "title": "Where human behaviour meets economic decision-making",
+    "description": "A behavioural economist exploring the hidden drivers behind choices, preferences, and actions. By studying how individuals respond to information, risk, and incentives, I uncover patterns that traditional economics often overlooks. My work blends psychology, data interpretation, and strategic insight to better explain real-world behaviour and guide smarter economic outcomes."
+  },
+  "approach": {
+    "title": "My Approach",
+    "description": "I’ve always been fascinated by how people think, decide, and act and how the right policies can genuinely improve lives. Today, I combine behavioral science, data analysis, and economic intelligence to help organizations understand problems better and design solutions that work.",
+    "imageUrl": "./images/beconomics.jpg"
+  },
+  "experience": [
+    {
+      "role": "Human Resources Intern",
+      "company": "BRAC",
+      "date": "2024",
+      "location": "Strategy & HR",
+      "description": "Designed and conducted a comprehensive study on employee well-being and engagement. Analyzed survey data from 200+ employees to identify key drivers of satisfaction."
+    }
+    ,{
+      "role": "Compliance Officer",
+      "company": "GSL Education",
+      "date": "2022 - 2023",
+      "location": "Operations",
+      "description": "Orchestrated rigorous background checks and compliance investigations for educational candidates. Streamlined data management processes to meet international safeguarding standards."
+    }
+    
+  ],
+  "education": [
+    {
+      "school": "Université Marie et Louis Pasteur",
+      "degree": "Master of Science",
+      "date": "2024 - Present",
+      "description": "Behavioral and Digital Economics in Effective Management."
+    },
+    {
+      "school": "Georg-August-Universität Göttingen",
+      "degree": "Blended Intensive Programme",
+      "date": "2024 – Present",
+      "description": "Behavioural Approaches to Sustainability Challenges."
+    },
+    {
+      "school": "Bengaluru City University",
+      "degree": "Bachelor of Arts",
+      "date": "2019 - 2022",
+      "description": "Triple major in Psychology, Economics, Sociology."
+    }
+  ],
+  "skills": [
+    {
+      "title": "Behavioural Economic Analysis",
+      "items": [
+        "Behavioural insights analysis",
+        "Market and consumer behaviour analysis",
+        "Choice architecture design",
+        "Policy and intervention analysis",
+        "Bounded rationality frameworks"
+      ]
+    },
+    {
+      "title": "Technical Tools",
+      "items": [
+        "R, Python (Data analysis)",
+        "Qualtrics, Google Forms",
+        "Power BI (Dashboards)",
+        "Literature review tools"
+      ]
+    },
+    {
+      "title": "Soft Skills",
+      "items": [
+        "Critical Thinking",
+        "Analytical reasoning",
+        "Problem solving (Human-centric)",
+        "Scientific communication",
+        "Interdisciplinary collaboration"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "UNIQLO Data ANalysis with Dashboard",
+      "image": "./images/uniqlo.jpeg",
+      "context": "UNIQLO needed to analyse sales performance across France to decide where and when to open new stores.",
+      "action": "Built an interactive Power BI dashboard to assess regional sales, profit, and seasonal patterns.",
+      "result": "Identified Île-de-France and Grand Est as strongest regions and recommended Q1/Q3 as optimal opening periods."
+    },
+    {
+      "title": "Eurimobility Case Study for Procurement",
+      "image": "./images/eurimobility.jpeg",
+      "context": "Eurimobility was heavily exposed to supply-chain risk, relying on Asia for 63% of its key components.",
+      "action": "Analyzed risks and market sentiment, supporting a multi-criteria auction to shift sourcing.",
+      "result": "Dropped Asian dependency to 22% and generated €1.1M in TCO savings."
+    },
+    {
+      "title": "Serenve - an AI based Face Scanner",
+      "image": "./images/face_scan.jpg",
+      "context": "Seeking to reduce cognitive load in skincare selection.",
+      "action": "Built an AI facial-scan system enhanced by sensory marketing and behavioral nudges (endowment effect, processing fluency).",
+      "result": "Created a high-trust ritual experience, significantly improving user engagement over standard shopping methods."
+    }
+  ],
+  "contact": {
+    "email": "karabimaliha@gmail.com",
+    "phone": "+33 1 23 45 67 89",
+    "address": "Besancon, France"
+  }
+}
